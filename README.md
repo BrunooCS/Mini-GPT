@@ -1,4 +1,4 @@
-# **Tiny GPT Model from Scratch**
+# **GPT Model from Scratch**
 
 <p align="center">
   <img src="https://cdn.prod.website-files.com/649d5f7142f0800f8b55fbaa/64b57a26c8883a951510224e_641351aeefc0453800d820ec_co.gif" width="500" style="border-radius: 15px;" />
